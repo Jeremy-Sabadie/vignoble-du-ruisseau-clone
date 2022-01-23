@@ -177,6 +177,29 @@ li {
   justify-content: start;
   margin-top: 0;
 }
+form {
+  width: 80%;
+  height: 30vh;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+.nom {
+  margin-left: -12em;
+}
+
+.prenom {
+  margin-right: -12em;
+}
+.mail {
+  text-align: center;
+}
+.newsletter-btn {
+  width: 5em;
+  height: 2em;
+  background-color: #eeeeee;
+  color: #1c1c1c;
+}
 /* fin du syle desktop */
 @media screen and (max-width: 500px) {
   /* début des média quéries */
