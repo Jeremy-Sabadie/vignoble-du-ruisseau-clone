@@ -184,21 +184,30 @@ form {
   margin-right: auto;
   text-align: center;
 }
-.nom {
-  margin-left: -12em;
-}
 
-.prenom {
-  margin-right: -12em;
-}
 .mail {
   text-align: center;
+}
+.nom {
+  margin-left: -30em;
+}
+.p-nom {
+  margin-left: -28em;
+}
+.prenom {
+  margin-right: -13em;
+}
+.p-prenom {
+  margin-right: -20em;
+}
+.send {
+  display: inline;
 }
 .newsletter-btn {
   width: 5em;
   height: 2em;
-  background-color: #eeeeee;
-  color: #1c1c1c;
+  background-color: #fcc5c5;
+  color: #a052ce;
 }
 /* fin du syle desktop */
 @media screen and (max-width: 500px) {
